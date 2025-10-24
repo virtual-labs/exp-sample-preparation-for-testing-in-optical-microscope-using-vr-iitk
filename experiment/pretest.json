@@ -2,35 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The primary purpose of the grinding in sample preparation for optical microscopy is :",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "to reveal the grain boundaries",
+        "b": "to achieve mirror-like surface finish",
+        "c": "to produce an initial flat surface and remove damage from sectioning",
+        "d": "to etch the material for microstructural analysis"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In which order are the grinding papers used ?",
+      "answers": {
+        "a": "Progressively finer grits (higher grit numbers)",
+        "b": "Progressively coarser grits (lower grit numbers)",
+        "c": "Grit size does not matter for grinding",
+        "d": "Only one grit size is necessary for proper grinding"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the main purpose of using water or a lubricant during the grinding process ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To make the sample smell better",
+        "b": "To act as a coolant to prevent overheating and to clear away abrasive particles",
+        "c": "To chemically etch the surface while grinding",
+        "d": "To make the sample adhere better to the grinding paper"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If a sample is too small or oddly shaped to be handled easily during preparation, what process is often used ?",
+      "answers": {
+        "a": "Etching",
+        "b": "Mounting",
+        "c": "Fine polishing",
+        "d": "Sectioning"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What kind of surface should ideally be obtained after the final polishing step ?",
+      "answers": {
+        "a": "A surface with visible, uniform scratches",
+        "b": "A slightly rough, matte surface",
+        "c": "A mirror-like, scratch-free surface",
+        "d": "A surface covered in a layer of lubricant"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
