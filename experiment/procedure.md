@@ -2,10 +2,7 @@
 
 <b>Grinding :</b> The purpose of grinding is to obtain a flat surface and remove damage caused during sectioning of sample.  <br>
 
-1. Begin the process of surface abrasion using coarsest (i.e. 120 grit or 180 grit) abrasive paper.  <br>
-
-Do utilize coolant/lubricant to precent the specimen from overheating, which may change its
-microstructure.  <br>
+1. Begin the process of surface abrasion using coarsest (i.e. 120 grit or 180 grit) abrasive paper. Do utilize coolant/lubricant to precent the specimen from overheating, which may change its microstructure.  <br>
 
 2. Sample should be flat with a uniform/distributed force in order to avoid any tapering and rendering uniform material removal from sample surface. Typically one-direction movement (or generating eight-pattern) ensures uniform material removal.  <br>
 
@@ -22,4 +19,4 @@ microstructure.  <br>
 
 3. Progressively follow the steps using finer diamond paste/suspension (say 6 μm followed by 3 μm diamond) along with compatible lubricant. Cloth should remain just damp and should neither be flooded wet nor complete dry.<br>
 
-4. Final polishing proceeds with even softer cloth (high-nap) using 1 m diamond suspension, followed by 0.3 m and 0.05 m alumina/colloidal silica till a mirror-finish is obtained. The surface should be free from any scratch to be observed under microscope.
+4. Final polishing proceeds with even softer cloth (high-nap) using 1 μm diamond suspension, followed by 0.3 μm and 0.05 μm alumina/colloidal silica till a mirror-finish is obtained. The surface should be free from any scratch to be observed under microscope.

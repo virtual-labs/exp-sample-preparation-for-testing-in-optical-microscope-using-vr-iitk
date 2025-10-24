@@ -11,5 +11,4 @@ Grinding is utilized (using SiC, silicon carbide abrasive) to remove the rough s
 Figure 1: Progressive grinding of the sample surface with finer grit in the consequent step with sample rotation by 90° (Orthogonal) to remove scratches left from previous grinding step.<br><br>
 
 
-Polishing is typically performed using alumina slurry or diamond suspensions/pastes, which are much finer than the abrasives used in grinding process. A coolant/lubricant is utilized to both lubricate the
-surface and carry away the abrasive particles. It must be ensured that the polishing cloth is neither too dry enough to impart heating nor too wet to flush away abrasive slurry for polishing the surface. The process complete when the surface has mirror- finish, which is free of all scratches, and ready for surface etching when needed.
+Polishing is typically performed using alumina slurry or diamond suspensions/pastes, which are much finer than the abrasives used in grinding process. A coolant/lubricant is utilized to both lubricate the surface and carry away the abrasive particles. It must be ensured that the polishing cloth is neither too dry enough to impart heating nor too wet to flush away abrasive slurry for polishing the surface. The process complete when the surface has mirror- finish, which is free of all scratches, and ready for surface etching when needed.
