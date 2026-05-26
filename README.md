@@ -1,24 +1,25 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Physical Science 
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
-
+<b> Lab | <b> Virtual Reality
+<b> Experiment|     <b> 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+
+<b>Name of Developer | <b> Prof. Kantesh Balani 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  IIT Kanpur
+<b> Email id|     <b>  kbalani@iitk.ac.in
+<b> Department |  Material Science Engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Prof. Kantesh Balani | Faculty | MSE | IIT Kanpur | kbalani@iitk.ac.in
+2 | Dhananjay Umrao | . | MSE | IIT Kanpur | dumrao@iitk.ac.in
+3 | Khushboo Singh | . | MSE | IIT Kanpur | skhushboo@iitk.ac.in
+4 | Pradeep Patel | . | MSE | IIT Kanpur | ppradeep@iitk.ac.in
