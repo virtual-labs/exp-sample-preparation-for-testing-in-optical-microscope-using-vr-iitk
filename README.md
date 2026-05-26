@@ -4,7 +4,7 @@
 <b>Discipline | <b>Physical Science 
 :--|:--|
 <b> Lab | <b> Virtual Reality
-<b> Experiment|     <b> 
+<b> Experiment|     <b> Sample preparation for testing in optical microscope using VR
 ### About the Experiment 
 
 
