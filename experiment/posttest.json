@@ -2,37 +2,122 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which abrasive material is typically used on grinding papers or belts :",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Diamond",
+        "b": "Aluminum oxide",
+        "c": "Silicon carbide (SiC)",
+        "d": "Magnesium oxide"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+        "a": "Incorrect — diamond is mainly used for fine polishing or very hard materials, not typically for standard grinding papers or belts.",
+  "b": "Incorrect — aluminum oxide is used in some polishing stages and certain applications, but less commonly as the primary grinding paper abrasive.",
+  "c": "Correct — silicon carbide (SiC) is the most commonly used abrasive for grinding papers due to its hardness and effectiveness in removing surface material.",
+  "d": "Incorrect — magnesium oxide is used as a polishing agent, not for grinding papers or belts."
+},
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which statement regarding grit size numbers is true ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "A 400 grit paper is coarser than an 180 grit paper.",
+        "b": "A 180 grit paper is coarser than a 400 grit paper",
+        "c": "Grit numbers only indicate the type of abrasive material.",
+        "d": "Grit numbers are irrelevant in the grinding process."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect — 400 grit is finer than 180 grit, not coarser; higher grit numbers mean smaller abrasive particles.",
+  "b": "Correct — 180 grit is coarser than 400 grit because lower grit numbers indicate larger abrasive particles.",
+  "c": "Incorrect — grit numbers represent particle size (coarseness/fineness), not the type of abrasive material.",
+  "d": "Incorrect — grit size is very important because it controls surface roughness and preparation quality during grinding."
+},
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is the specimen rotated by 90 degrees when moving from one grit size of grinding paper to the next ?",
+      "answers": {
+        "a": "To ensure even wear on the grinding paper",
+        "b": "To confuse the operator and test their attention to detail",
+        "c": "To see when scratches from the previous coarser grit have been completely removed",
+        "d": "To prevent the sample from overheating"
       },
+      "explanations": {
+        "a": "Incorrect — rotating the specimen is not for grinding paper wear; it is for monitoring surface preparation quality.",
+  "b": "Incorrect — it has no purpose related to operator testing or confusion.",
+  "c": "Correct — rotating by 90° helps distinguish old scratches from the previous grit so you can confirm they are fully removed before moving to the next finer grit.",
+  "d": "Incorrect — overheating control is managed by lubricant/cooling, not specimen rotation."
+},
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What common problem can occur if excessive heat is generated during the initial cutting or coarse grinding stages ?",
+      "answers": {
+        "a": "The sample may become too difficult to handle",
+        "b": "The sample will become magnetized",
+        "c": "The sample's internal microstructure may be altered",
+        "d": "The grinding machine will break down"
+      },
+      "explanations": {
+        "a": "Incorrect — while handling may become slightly inconvenient, it is not the primary or significant effect of overheating.",
+  "b": "Incorrect — magnetization is unrelated to heat generated during cutting or grinding.",
+  "c": "Correct — excessive heat can cause thermal damage such as phase changes, residual stresses, or deformation, altering the true microstructure of the sample.",
+  "d": "Incorrect — machine failure is not a typical direct consequence of heat in the specimen during grinding or cutting."
+},
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the general rule of thumb regarding cleanliness between different stages of sample preparation (especially when changing grit sizes) ?",
+      "answers": {
+        "a": "Cleanliness is not a major concern until the final step",
+        "b": "The sample should be thoroughly washed to prevent contamination from coarser grit particles",
+        "c": "Operator's hands need to be cleaned, not the sample",
+        "d": "Quick wipe with a dry cloth is sufficient"
+      },
+      "explanations": {
+        "a": "Incorrect — cleanliness is important at every stage, not only at the final step, because contamination can carry coarse particles forward and damage the surface.",
+  "b": "Correct — the sample should be thoroughly cleaned between grit stages to remove coarse abrasive particles and prevent them from causing deep scratches in the next finer stage.",
+  "c": "Incorrect — cleaning only hands is not enough; the specimen itself must be cleaned properly to avoid contamination.",
+  "d": "Incorrect — a dry wipe is insufficient because it may leave embedded abrasive particles on the surface."
+},
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is excessive pressure generally avoided during the grinding process ?",
+      "answers": {
+        "a": "It makes the specimen too hot to handle",
+        "b": "It can cause excessive material removal and waste the sample",
+        "c": "It can lead to change in the microstructure",
+        "d": "It can clog the abrasive paper too quickly"
+      },
+      "explanations": {
+        "a": "Incorrect — while pressure can contribute to heating, the main concern is not simply handling temperature.",
+  "b": "Correct — excessive pressure can remove too much material quickly, introduce deep scratches, and unnecessarily waste the specimen surface.",
+  "c": "Incorrect — pressure during grinding does not typically alter the internal microstructure; heat is the main factor for such changes.",
+  "d": "Incorrect — clogging can occur, but it is not the primary reason excessive pressure is avoided."
+},
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "After the final fine grinding stage (e.g., 600 grit), what is the next major step in sample preparation ?",
+      "answers": {
+        "a": "Etching",
+        "b": "Microscopic observation",
+        "c": "Coarse grinding again",
+        "d": "Polishing"
+      },
+      "explanations": {
+        "a": "Incorrect — etching is done only after polishing to reveal microstructural features, not immediately after grinding.",
+  "b": "Incorrect — microscopic observation requires a polished (and usually etched) surface, not just fine ground finish.",
+  "c": "Incorrect — coarse grinding is an earlier stage used to remove cutting damage, not after fine grinding.",
+  "d": "Correct — polishing is the next step after fine grinding to remove scratches and produce a smooth, mirror-like surface."
+},
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]

@@ -2,36 +2,87 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The primary purpose of the grinding in sample preparation for optical microscopy is :",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "to reveal the grain boundaries",
+        "b": "to achieve mirror-like surface finish",
+        "c": "to produce an initial flat surface and remove damage from sectioning",
+        "d": "to etch the material for microstructural analysis"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Grain boundaries are not revealed by grinding. They become visible only after etching, which chemically attacks different phases or boundaries after polishing.",
+        "b": "A mirror-like finish is achieved during polishing, not grinding. Grinding only produces a flat but relatively rough surface.",
+        "c": "Grinding is the first major step in sample preparation for optical microscopy. After cutting, the specimen surface has saw marks, deformation, and roughness. Grinding removes this damaged layer and makes the surface flat and even, preparing it for finer polishing steps.",
+        "d": "Etching is a separate chemical process done after polishing. It is not part of grinding and is used to reveal microstructural features like grains, phases, and boundaries."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In which order are the grinding papers used ?",
+      "answers": {
+        "a": "Progressively finer grits (higher grit numbers)",
+        "b": "Progressively coarser grits (lower grit numbers)",
+        "c": "Grit size does not matter for grinding",
+        "d": "Only one grit size is necessary for proper grinding"
+      },
+      "explanations": {
+        "a": "Correct — Progressively finer grits (higher grit numbers) — grinding is done from coarse to fine to remove damage step-by-step and obtain a smooth, flat surface for polishing.",
+        "b": "Incorrect — grinding does not start with finer grit; it begins with coarse and then moves finer.",
+        "c": "Incorrect — grit sequence is important to avoid deep scratches and ensure proper surface preparation.",
+        "d": "Incorrect — a single grit cannot properly remove damage or prepare the surface for microscopy"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the main purpose of using water or a lubricant during the grinding process ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To make the sample smell better",
+        "b": "To act as a coolant to prevent overheating and to clear away abrasive particles",
+        "c": "To chemically etch the surface while grinding",
+        "d": "To make the sample adhere better to the grinding paper"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect — water or lubricant is not used for smell; it has no role in odor and is purely functional in grinding.",
+  "b": "Correct — it acts as a coolant to prevent overheating and helps flush away abrasive particles, reducing surface damage and clogging.",
+  "c": "Incorrect — grinding is a mechanical process; chemical etching is done separately after polishing, not during grinding.",
+  "d": "Incorrect — lubricant does not improve adhesion; the sample is held mechanically on the grinding paper."
+},
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If a sample is too small or oddly shaped to be handled easily during preparation, what process is often used ?",
+      "answers": {
+        "a": "Etching",
+        "b": "Mounting",
+        "c": "Fine polishing",
+        "d": "Sectioning"
       },
+      "explanations": {
+        "a": "Incorrect — etching is used after polishing to reveal microstructural features, not for handling small or irregular samples.",
+  "b": "Correct — mounting is used to embed small or oddly shaped samples in a resin or holder so they can be safely handled during grinding and polishing.",
+  "c": "Incorrect — fine polishing improves surface finish but does not help in handling or supporting the sample shape.",
+  "d": "Incorrect — sectioning is the cutting process used to obtain a specimen, not to support small or irregular samples."
+},
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What kind of surface should ideally be obtained after the final polishing step ?",
+      "answers": {
+        "a": "A surface with visible, uniform scratches",
+        "b": "A slightly rough, matte surface",
+        "c": "A mirror-like, scratch-free surface",
+        "d": "A surface covered in a layer of lubricant"
+      },
+      "explanations": {
+        "a": "Incorrect — polishing aims to remove scratches, not produce uniform visible ones; scratches indicate incomplete preparation.",
+  "b": "Incorrect — a matte surface indicates insufficient polishing and remaining surface roughness.",
+  "c": "Correct — final polishing produces a mirror-like, scratch-free surface suitable for microscopic examination.",
+  "d": "Incorrect — lubricant is used during preparation but is cleaned off; it should not remain on the final surface."
+},
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
